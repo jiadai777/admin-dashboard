@@ -2,21 +2,52 @@ body{
 	background-color: #f4f4f4;
 }
 
+/* Custom */
+.main-color-bg{
+	background-color: #e13813 !important;
+	border-color: #90270a !important;
+	color: #fff !important;
+}
+
+/* Header */
+#header{
+	background: #333333;
+	color: #ffffff;
+	padding-bottom: 10px;
+	margin-bottom: 15px;
+}
+
+#header .create{
+	padding-top: 20px;
+}
+
+/* Breadcrumb */
+.breadcrumb{
+	background: #cccccc;
+	color: #333333;
+}
+
+.breadcrumb a{
+	color: #333333;
+}
+
+/* progress bars */
+.progress-bar{
+	background-color: #e13813;
+}
+
+.dash-box{
+	text-align: center;
+}
+
+/* Navbar */
 .navbar{
 	min-height: 33px !important;
 	margin-bottom: 0;
 	border-radius: 0;
+	background-color: #e13813;
 }
 
-.main-color-bg{
-	background-color: #90270a !important;
-	border-color: #e13813 !important;
-	color: #fff;
-}
-
-.navbar {
-  background-color: #e13813;
-}
 .navbar .navbar-brand {
   color: #ecf0f1;
 }
