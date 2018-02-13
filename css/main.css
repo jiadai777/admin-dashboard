@@ -40,6 +40,15 @@ body{
 	text-align: center;
 }
 
+/* footer */
+#footer{
+	background: #333333;
+	color: #fff;
+	text-align: center;
+	padding: 30px;
+	margin-top: 30px;
+}
+
 /* Navbar */
 .navbar{
 	min-height: 33px !important;
